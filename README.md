@@ -22,3 +22,66 @@ Without structured analytics:
   
 This project provides a dashboard-based solution to track and improve order fulfillment efficiency.
 
+---
+Project Structure
+
+Ecommerce-Order-Fulfillment-Analytics/
+│
+├── Dashboard/
+│   └── Ecommerce Order Fulfillment Analytics Dashboard.pbix
+│
+├── Data/
+│   └── cleaned_dataset.csv
+│
+├── Python/
+│   └── data_cleaning.py
+│
+├── Images/
+│   └── dashboard.png
+│
+└── README.md
+
+---
+
+🛠 Tools & Technologies Used
+
+- Excel – Initial data inspection
+
+- Python (Pandas, NumPy) – Data cleaning & preprocessing
+
+- Power BI – Dashboard development
+
+- DAX – KPI calculations
+
+---
+
+🎯 Key Insights
+
+- Identified percentage of delayed orders
+
+- Measured average delivery time
+
+- Compared regional performance
+
+- Analyzed revenue contribution by category
+
+- Enabled operational improvement through data-driven monitoring
+
+---
+
+📌 Conclusion
+
+This project demonstrates how Business Intelligence tools can transform raw transactional data into actionable insights.
+
+The dashboard helps management:
+
+- Monitor delivery efficiency
+
+- Identify delay patterns
+
+- Improve logistics planning
+
+- Enhance customer satisfaction
+
+
+
